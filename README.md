@@ -1,7 +1,13 @@
-### <div align="center">Hi!👋 I'm Ashish, a ML enthusiast and competitive programmer 👨‍💻 </div>  
+# <div align="center">Hi!👋 I'm Ashish Kushwaha 👨‍💻 </div>  
   
 
-<br/>  
+## About Me
+
+- Currently a 2nd year undergrad in JSS Academy of Technical Education Noida 🎓
+- I have interest in making simulations, games, etc 🎮
+- Loves to solve puzzles/riddles 💭
+- Likes to code in C++,Python and JS 💻
+- sudo apt-get install wisdom 😅
 
 
 ## My Skill Set  
