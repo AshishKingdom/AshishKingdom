@@ -4,7 +4,7 @@
 ## About Me
 
 - Currently a 3rd year undergrad in JSS Academy of Technical Education Noida 🎓
-- I have interest in making web application,ML,simulations, games, etc 🎮
+- I have an interest in making web applications (mostly backend using Python),ML, simulations, games, etc 🎮
 - Loves to solve puzzles/riddles 💭
 - Likes to code in C++,Python and JS 💻
 - sudo apt-get install wisdom 😅
@@ -13,7 +13,7 @@
 ## My Skill Set  
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,flask,fastapi,mysql,mongodb,redis,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,flask,fastapi,mysql,mongodb,postgres,git,docker,linux" />
 <!-- <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
