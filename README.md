@@ -3,25 +3,17 @@
 
 ## About Me
 
-- Currently a 3rd year undergrad in JSS Academy of Technical Education Noida 🎓
-- I have an interest in making web applications (mostly backend using Python),ML, simulations, games, etc 🎮
+- Currently a final year undergrad at JSS Academy of Technical Education Noida 🎓
+- I build high-quality AI applications/Agents and backend services. I am curious about video games and simulations
 - Loves to solve puzzles/riddles 💭
-- Likes to code in C++,Python and JS 💻
+- Likes to code in Python, Javascript and C++ 💻
 - sudo apt-get install wisdom 😅
 
 
 ## My Skill Set  
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,flask,fastapi,mysql,mongodb,postgres,git,docker,linux" />
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   -->
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,azure,react,aws,fastapi,mysql,mongodb,postgres,git,docker,linux,p5js" />
 </div>
 
 <br/>  
