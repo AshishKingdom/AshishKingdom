@@ -3,17 +3,15 @@
 
 ## About Me
 
-- Currently a final year undergrad at JSS Academy of Technical Education Noida 🎓
-- I build high-quality AI applications/Agents and backend services. I am curious about video games and simulations
-- Loves to solve puzzles/riddles 💭
-- Likes to code in Python, Javascript and C++ 💻
-- sudo apt-get install wisdom 😅
-
+- Currently Founding AI Engineer at https://weya.ai.
+- Worked in multiple AI based startups - https://themangojelly.com/, https://kareai.io/ and https://basetech.in/
+- I build high-quality AI applications/Agents and Backend services, mostly in python and sometimes in Go/JavaScript.
+- Sometimes, you will find me creating algorithmic design or simulation using GLSL/p5.js
 
 ## My Skill Set  
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,azure,react,aws,fastapi,mysql,mongodb,postgres,git,docker,linux,p5js" />
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,go,azure,react,aws,fastapi,mysql,mongodb,postgres,git,docker,linux,p5js" />
 </div>
 
 <br/>  
